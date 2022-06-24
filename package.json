@@ -1,0 +1,25 @@
+{
+    "name": "com.goorkamateusz.saves",
+    "version": "0.0.0",
+    "displayName": "GooSaves",
+    "description": "Simple package to basic plain text saves in your game.",
+    "unity": "2020.3",
+    "unityRelease": "13f1",
+    "documentationUrl": "https://goorkamateusz.github.io/Playground/",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
+    },
+    "keywords": [
+        "goorkamateusz",
+        "Saves",
+        "Mobile",
+        "Patterns"
+    ],
+    "author": {
+        "name": "Mateusz Górka",
+        "email": "goorkamateusz@gmail.com",
+        "url": "https://goorkamateusz.github.io"
+    }
+}

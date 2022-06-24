@@ -1,0 +1,18 @@
+{
+    "name": "com.goorkamateusz.saves.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f94e958070456854ab8adfb473544a1d",
+        "GUID:2cac159e5422ae740ba333496b9c59cc",
+        "GUID:ba2868d5425c80448aa388f68a75e5af"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

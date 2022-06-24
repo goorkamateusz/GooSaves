@@ -1,0 +1,17 @@
+{
+    "name": "com.goorkamateusz.saves.samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f94e958070456854ab8adfb473544a1d",
+        "GUID:2cac159e5422ae740ba333496b9c59cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "com.goorkamateusz.saves",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2cac159e5422ae740ba333496b9c59cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
